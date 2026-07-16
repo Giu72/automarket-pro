@@ -9,7 +9,7 @@ st.subheader("Ricerca dati veicolo da targa")
 targa = st.text_input("Inserisci la targa", placeholder="es. AB123CD")
 
 if st.button("Cerca veicolo") and targa:
-   with st.spinner("Interrogazione in corso..."):
+    with st.spinner("Interrogazione in corso..."):
         risultato = get_vehicle_data_infotarga(targa)
 
     if risultato["trovato"]:
