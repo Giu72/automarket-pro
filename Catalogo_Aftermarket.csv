@@ -1,0 +1,11 @@
+marca,modello,componente,tipo,brand,codice,prezzo_euro,disponibilita,note
+Fiat,Panda,Pastiglie freno,OEM,Fiat Originale,77365927,58.90,No,Prezzo indicativo - su ordinazione concessionaria
+Fiat,Panda,Pastiglie freno,IAM,Brembo,P11031,29.90,Si,Prezzo confermato da più rivenditori
+Fiat,Punto,Alternatore,OEM,Fiat Originale,46420965,320.00,No,Prezzo indicativo - su ordinazione concessionaria
+Fiat,Punto,Alternatore,IAM,Bosch,0124215002,139.90,Si,Prezzo indicativo di mercato
+Fiat,500 Abarth,Filtro olio,OEM,Fiat Originale,46544820,18.90,Si,Prezzo indicativo - su ordinazione concessionaria
+Fiat,500 Abarth,Filtro olio,IAM,Bosch,1457429256,10.90,Si,Prezzo indicativo di mercato
+Volkswagen,Golf,Frizione,OEM,Volkswagen Originale,04L141016,450.00,No,Prezzo indicativo - su ordinazione concessionaria
+Volkswagen,Golf,Frizione,IAM,LuK,6243553 33,199.90,No,Prezzo indicativo - su richiesta
+Nissan,Qashqai,Cinghia di distribuzione,OEM,Nissan Originale,13028BN700,150.00,No,Prezzo indicativo - su ordinazione concessionaria
+Nissan,Qashqai,Cinghia di distribuzione,IAM,Gates,5578XS,27.55,Si,Prezzo confermato dal rivenditore
