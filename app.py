@@ -13,6 +13,10 @@ if "risultato_veicolo" not in st.session_state:
 
 targa = st.text_input("Inserisci la targa", placeholder="es. AB123CD")
 
+if st.button("🔄 Nuova ricerca"):
+    st.session_state.risultato_veicolo = None
+    st.rerun()
+
 if st.button("Cerca veicolo") and targa:
     with st.spinner("Interrogazione in corso..."):
         st.session_state.risultato_veicolo = get_vehicle_data_infotarga(targa)
